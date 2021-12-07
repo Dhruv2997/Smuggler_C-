@@ -1,0 +1,2 @@
+D:\Advanced C++\smugglerFinal\Debug\smugglerFinal.exe
+D:\Advanced C++\smugglerFinal\Debug\smugglerFinal.pdb
